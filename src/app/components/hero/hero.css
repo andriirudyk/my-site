@@ -49,3 +49,30 @@
   box-shadow:0 10px 25px rgba(0,0,0,.2);
 
 }
+@media (max-width: 768px) {
+
+  .hero {
+
+    padding: 20px;
+
+  }
+
+  .hero h1 {
+
+    font-size: 40px;
+
+  }
+
+  .hero p {
+
+    font-size: 20px;
+
+  }
+  .hero button {
+
+    width: 100%;
+
+    max-width: 250px;
+
+  }
+}
